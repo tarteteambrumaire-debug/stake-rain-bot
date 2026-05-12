@@ -1,0 +1,12 @@
+{
+  "name": "stake-rain-notifier-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram pour Stake Rain Notifier",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
